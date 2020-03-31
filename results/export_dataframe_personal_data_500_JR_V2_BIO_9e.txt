@@ -1,0 +1,128 @@
+F1-score: 80.0%
+Palavra                                                   Prev - Real
+=====================================================================
+Europass                                                  O      O
+Curriculum                                                O      O
+Vitae                                                     O      O
+Informação                                                O      O
+pessoal                                                   O      O
+Nome                                                      O      O
+s                                                         O      O
+próprio                                                   O      O
+s                                                         O      O
+Apelido                                                   O      O
+s                                                         O      O
+Morada                                                    O      O
+s                                                         O      O
+Telefone                                                  O      O
+s                                                         O      O
+Endereço                                                  O      O
+s                                                         O      O
+de                                                        O      O
+correio                                                   O      O
+eletrónico                                                O      O
+Nacionalidade                                             O      O
+Data                                                      O      O
+de                                                        O      O
+nascimento                                                O      O
+Sexo                                                      O      O
+Ana                                                       B-NOME B-NOME
+Rita                                                      I-NOME I-NOME
+Ferreira                                                  I-NOME I-NOME
+Gamito                                                    I-NOME I-NOME
+Rua                                                       B-MORADAB-MORADA
+Viriato                                                   I-MORADAI-MORADA
+nº5                                                       I-MORADAI-MORADA
+2ºesq.                                                    I-MORADAI-MORADA
+2800                                                      I-MORADAI-MORADA
+Almada                                                    I-MORADAI-MORADA
+21                                                        B-TEL  B-TEL
+2740899                                                   I-TEL  I-TEL
+Telemóvel                                                 O      O
+92                                                        B-TEL  B-TEL
+5034579                                                   I-TEL  I-TEL
+anaritagamito@gmail.com                                   B-MAIL B-MAIL
+Portuguesa                                                O      O
+18                                                        B-NASC B-NASC
+de                                                        I-NASC I-NASC
+Outubro                                                   I-NASC I-NASC
+1988                                                      I-NASC I-NASC
+Feminino                                                  O      O
+Emprego                                                   O      O
+pretendido                                                O      O
+Área                                                      O      O
+Contabilidade/                                            O      O
+Finanças/                                                 O      O
+Auditoria/                                                O      O
+Consultoria                                               O      O
+funcional                                                 O      O
+Experiência                                               O      O
+profissional                                              O      O
+Datas                                                     O      O
+Função                                                    O      O
+ou                                                        O      O
+cargo                                                     O      O
+ocupado                                                   O      O
+Principais                                                O      O
+atividades                                                O      O
+Nome                                                      O      O
+e                                                         O      O
+.                                                         O      O
+Curriculum                                                O      O
+Vitae                                                     O      O
+INFORMAÇÃO                                                O      O
+PESSOAL                                                   O      O
+Jorge                                                     B-NOME B-NOME
+André                                                     I-NOME I-NOME
+Filipe                                                    I-NOME I-NOME
+Bicho                                                     I-NOME I-NOME
+Rua                                                       B-MORADAB-MORADA
+Caminho                                                   I-NOME I-MORADA
+dos                                                       I-MORADAI-MORADA
+Moleiros                                                  I-MORADAI-MORADA
+Nº22                                                      I-MORADAI-MORADA
+Fontanelas                                                O      I-MORADA
+2705-595                                                  I-MORADAI-MORADA
+São                                                       I-MORADAI-MORADA
+João                                                      I-MORADAI-MORADA
+das                                                       I-MORADAI-MORADA
+Lampas                                                    I-MORADAI-MORADA
+Sintra                                                    I-MORADAI-MORADA
+Portugal                                                  I-MORADAI-MORADA
+219291357                                                 B-TEL  B-TEL
+964170407                                                 I-TEL  I-TEL
+andjorge_2@hotmail.com                                    B-MAIL B-MAIL
+Sexo                                                      O      O
+Masculino                                                 O      O
+Data                                                      O      O
+de                                                        O      O
+nascimento                                                O      O
+29929                                                     B-NASC B-NASC
+Nacionalidade                                             O      O
+Portuguesa                                                O      O
+EMPREGO                                                   O      O
+PRETENDIDO                                                O      O
+Economista                                                O      O
+EXPERIÊNCIA                                               O      O
+PROFISSIONAL                                              O      O
+38777                                                     O      O
+41151                                                     O      O
+Animador                                                  O      O
+Turistico                                                 O      O
+Ozono                                                     O      O
+Mais                                                      O      O
+Estrada                                                   O      O
+de                                                        O      O
+Alcolombal                                                O      O
+Condomínio                                                O      O
+de                                                        O      O
+Alcolombal                                                O      O
+Armazém                                                   O      O
+12                                                        O      O
+2705-903                                                  O      O
+Terrugem                                                  O      O
+Sintra                                                    O      O
+Portugal                                                  O      O
+Actividades                                               O      O
+Tu                                                        O      O
+.                                                         O      O
