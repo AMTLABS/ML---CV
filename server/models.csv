@@ -1,0 +1,10 @@
+﻿userId,model_id,model_name,status
+sfadmin,1,dados_pessoais,created
+sfadmin,2,dados_pessoais_v2,training
+sfadmin,3,dados_pessoais_v3,completed
+sfadmin,4,teste,Created
+sfadmin,5,teste2,created
+sfadmin,6,teste2,created
+sfadmin,7,novoteste,created
+sfadmin,8,testada,Created
+sfadmin,9,newnew,created
